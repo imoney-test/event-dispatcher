@@ -1,5 +1,6 @@
 EventDispatcher Component
 =========================
+[![Build Status](https://travis-ci.org/imoney-test/event-dispatcher.svg?branch=master)](https://travis-ci.org/imoney-test/event-dispatcher)
 
 The EventDispatcher component provides tools that allow your application
 components to communicate with each other by dispatching events and listening to
